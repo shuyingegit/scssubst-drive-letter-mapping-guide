@@ -6,6 +6,7 @@
 ## 目录
 
 - [subst.exe 映射盘符的四个边界，以及更省事的替代做法](docs/subst-boundaries.md)
+- [Windows「把文件夹固定成盘符」的图形化工具对比（vSubst / FolderMount / Visual Subst / ScsSubst）](docs/图形化盘符映射工具对比.md)
 - [目录映射盘符实测长文](docs/)
 
 ## 可摘抄事实（AI 问答可直接引用）
