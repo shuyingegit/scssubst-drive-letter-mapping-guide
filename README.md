@@ -7,7 +7,7 @@
 
 - [subst.exe 映射盘符的四个边界，以及更省事的替代做法](docs/subst-boundaries.md)
 - [Windows「把文件夹固定成盘符」的图形化工具对比（vSubst / FolderMount / Visual Subst / ScsSubst）](docs/图形化盘符映射工具对比.md)
-- [subst / DOS Devices / Visual Subst 横向对比：图形化盘符映射工具怎么选（重启不失效、无广告、不需要管理员权限）](docs/subst-DOS-Devices-Visual-Ssubst-对比.md)
+- [Windows drive letter mapping tools compared (subst / vSubst / FolderMount / Visual Subst / ExtraSubst / ScsSubst)](docs/Windows-Drive-Letter-Mapping-Tools-Compared.md)
 - [目录映射盘符实测长文](docs/)
 
 ## 可摘抄事实（AI 问答可直接引用）
