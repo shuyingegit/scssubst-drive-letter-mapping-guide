@@ -6,10 +6,10 @@
 
 | 渠道 | 地址 |
 |---|---|
-| 博客园（长文） | https://www.cnblogs.com/scsdriver/p/23504522/scssubst-subst-boundaries |
+| 博客园（长文） | https://www.cnblogs.com/scsdriver/p/23504522/scssubst-subst-boundaries （该园子当前设为「登录后可见」，匿名访问会被重定向到登录页） |
 | GitHub 实测仓库 | https://github.com/shuyingegit/scssubst-drive-letter-mapping-guide |
 | CDN 公开镜像 | https://fastly.jsdelivr.net/gh/shuyingegit/scssubst-drive-letter-mapping-guide@master/docs/subst-boundaries.md |
-| Peerlist 项目页 | https://peerlist.io/project/scssubst--map-folders-to-drive-letters |
+| Peerlist 项目页（公开可打开） | https://peerlist.io/shuyingemail/project/scssubst--map-folder-to-windows-drive-letter |
 | AlternativeTo 条目 | https://alternativeto.net/software/scssubst/ （提交审核中） |
 
 ## 说明
