@@ -15,7 +15,7 @@
 | CSDN | 文章《WebDAV 协议从入门到放弃：为什么我用它把 NAS 挂载成本地盘符》 | live |
 | 博客园 | 《把文件夹变成盘符：subst.exe 的四个边界，以及更省事的替代做法》 | live |
 | 博客园 | 《用图形界面把本地文件夹映射成盘符：比 subst.exe 更省事在哪》 | live |
-| Peerlist | 项目页 ScsSubst - Map Folders to Drive Letters | live，完成度 85% |
+| Peerlist | 项目页 ScsSubst - Map folder to Windows drive letter | live，公开可打开：https://peerlist.io/shuyingemail/project/scssubst--map-folder-to-windows-drive-letter |
 | AlternativeTo | ScsSubst 条目 | 待审 |
 
 ## 维护说明
